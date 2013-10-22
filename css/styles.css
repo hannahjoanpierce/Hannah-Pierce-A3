@@ -1,0 +1,50 @@
+/* Stylesheet */
+/* Color Palette:
+Dirty Brown Hex BF885A
+Coral Hex 		F57676
+Peach Hex 		FF9578
+*/
+
+
+/* 
+
+Color Palette: 
+#F0F0D8 Primary: light muave green
+#967C52 Secondary: darker brown
+#CFCFCF Tertiary: light gray
+
+*/
+
+body {
+        background: url("../img/bg.png");
+}
+
+header {
+     margin-top:40px;   
+}
+
+nav {
+      height:36px;
+}
+
+.title{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size:40px;
+}
+
+.links{
+	margin:0px auto 0px auto;
+}
+
+.wrapper{
+	border:3px outset black;
+	padding:20px;	
+}
+
+.leftImage{
+	margin-left:0px;	
+}
+.rightImage{
+	margin-top:20px;
+	margin-left:0px;
+}
